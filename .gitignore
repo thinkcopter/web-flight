@@ -2,10 +2,9 @@
 .DS_Store
 .project
 .settings
-config.js
-node_modules
+node_modules/
 components
-bower_components
+bower_components/
 _site
 pictures
 temp.js
